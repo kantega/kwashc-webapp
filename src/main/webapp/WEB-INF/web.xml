@@ -38,8 +38,6 @@
         <url-pattern>*.gif</url-pattern>
         <url-pattern>*.js</url-pattern>
         <url-pattern>*.css</url-pattern>
-        <url-pattern>/checkIfMyPasswordStoredSecurely</url-pattern>
-
     </servlet-mapping>
 
     <servlet-mapping>
